@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Yilun&#39;s Thoughts</title>
+	<subtitle>Things that came up... and I thought about them.</subtitle>
+	
+	<link href="https://thoughts.yilun.com/feed/feed.xml" rel="self"/>
+	<link href="https://thoughts.yilun.com"/>
+	<updated>2022-07-19T00:00:00Z</updated>
+	<id>https://thoughts.yilun.com</id>
+	<author>
+		<name>Yilun</name>
+		<email>youremailaddress@example.com</email>
+	</author>
+	
+	<entry>
+		<title>Hello World!</title>
+		<link href="https://thoughts.yilun.com/posts/hello_world/"/>
+		<updated>2022-07-19T00:00:00Z</updated>
+		<id>https://thoughts.yilun.com/posts/hello_world/</id>
+		<content type="html">&lt;h1 id=&quot;starter-post&quot; tabindex=&quot;-1&quot;&gt;starter post &lt;a class=&quot;direct-link&quot; href=&quot;https://thoughts.yilun.com/posts/hello_world/#starter-post&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;hello world!&lt;/p&gt;
+</content>
+	</entry>
+</feed>

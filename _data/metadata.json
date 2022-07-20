@@ -1,0 +1,21 @@
+{
+  "title": "Yilun's Thoughts",
+  "url": "https://thoughts.yilun.com",
+  "language": "en",
+  "description": "Things that came up... and I thought about them.",
+  "feed": {
+    "subtitle": "Things that came up... and I thought about them.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://thoughts.yilun.com"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://thoughts.yilun.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Yilun",
+    "email": "youremailaddress@example.com",
+    "url": "https://thoughts.yilun.com/about-me/"
+  }
+}

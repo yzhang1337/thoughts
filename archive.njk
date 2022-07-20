@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+permalink: /posts/
+eleventyNavigation:
+  key: long term memory
+  order: 2
+---
+
+<h1>long term memory</h1>
+
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}

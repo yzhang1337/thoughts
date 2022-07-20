@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://thoughts.yilun.com/posts/hello_world/</loc>
+    <lastmod>2022-07-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thoughts.yilun.com/about/</loc>
+    <lastmod>2022-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thoughts.yilun.com/posts/</loc>
+    <lastmod>2022-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thoughts.yilun.com/</loc>
+    <lastmod>2022-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thoughts.yilun.com/page-list/</loc>
+    <lastmod>2022-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thoughts.yilun.com/tags/</loc>
+    <lastmod>2022-07-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thoughts.yilun.com/tags/test/</loc>
+    <lastmod>2022-07-20</lastmod>
+  </url>
+</urlset>

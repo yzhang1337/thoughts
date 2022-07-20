@@ -1,0 +1,20 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Yilun&#39;s Thoughts",
+  "language": "en",
+  "home_page_url": "https://thoughts.yilun.com",
+  "feed_url": "https://thoughts.yilun.com/feed/feed.json",
+  "description": "Things that came up... and I thought about them.",
+  "author": {
+    "name": "Yilun",
+    "url": "https://thoughts.yilun.com/about-me/"
+  },
+  "items": [{
+      "id": "https://thoughts.yilun.com/posts/hello_world/",
+      "url": "https://thoughts.yilun.com/posts/hello_world/",
+      "title": "Hello World!",
+      "content_html": "<h1 id=\"starter-post\" tabindex=\"-1\">starter post <a class=\"direct-link\" href=\"https://thoughts.yilun.com/posts/hello_world/#starter-post\" aria-hidden=\"true\">#</a></h1>\n<p>hello world!</p>\n",
+      "date_published": "2022-07-19T00:00:00Z"
+    }
+  ]
+}
